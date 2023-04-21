@@ -9,7 +9,7 @@
 
 <h3>Connect with me :</h3>
 <a href="https://www.linkedin.com/in/sumitamahato/"><img src="https://img.freepik.com/premium-vector/linkedin-icon_488108-5.jpg?w=50"/></a>
-<a href="https://Sumitamahato.github.io/" target="blank"><img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/000/351/686/small/Business__28148_29.jpg?w=50"/></a>
+<a href="https://Sumitamahato.github.io" target="blank"><img width="50" src="https://static.vecteezy.com/system/resources/thumbnails/000/351/686/small/Business__28148_29.jpg?w=50"/></a>
 
 
 # 💻 Tech Stack:
