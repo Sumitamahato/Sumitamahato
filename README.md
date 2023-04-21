@@ -3,7 +3,7 @@
 🔭 I’m currently working on Node.js<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning advanced Mongo Query.<br>💬 Ask me about Node.js, API, database.<br> 
 
 
-<img align="right" width="500px" height="500px" src="https://media3.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=ecf05e471ypp4iaep4b75dcxk8232dw1yrryp5biqrk7be6w&rid=giphy.gif&ct=s"/>
+<img align="center" width="500px" height="500px" src="https://media3.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif?cid=ecf05e471ypp4iaep4b75dcxk8232dw1yrryp5biqrk7be6w&rid=giphy.gif&ct=s"/>
 
 
 
