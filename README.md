@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20Folks!%20I%20am%20Aman%20Kumar;%20I%20am%20a%20NodeJs%20Backend%20Developer%20;I%20am%20a%20FullStack%20Web%20Developer;%20Interested%20in%20Coding%20%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;%20Curious%20to%20learn%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=24&pause=1000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20Folks!%20I%20am%20Sumita%20Mahato;%20I%20am%20a%20NodeJs%20Backend%20Developer%20;I%20am%20a%20FullStack%20Web%20Developer;%20Interested%20in%20Coding%20%F0%9F%8F%83%E2%80%8D%E2%99%82%EF%B8%8F;%20Curious%20to%20learn%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=24&pause=1000" />
   </a>
 </p>
 
