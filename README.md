@@ -22,11 +22,25 @@
 
 
 # 💫 About Me:
-<br>🌱 I’m currently learning Node.js.<br>💬 Ask me about Javascript and Node.js<br>⚡ "Keep your face always toward the sunshine, and shadows will fall behind you. .
-<br>
-<br>
-<br>
-<img align="center" width="100%" heigt='200'  src="https://res.cloudinary.com/practicaldev/image/fetch/s--rt5V86sK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--TVrZFUna--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wukog07lt3tvqobbl611.gif">
+<details>
+<summary><h2>🙋‍♂️ About Me</h2></summary>
+
+- 🔭 I'm a dedicated Full Stack Web Developer, currently pursuing my studies at Masai.
+
+- 🌱 I'm constantly learning and expanding my knowledge in web development.
+
+- 📄 Take a look at my [Resume](https://drive.google.com/file/d/1OOUqgBVJK6Ge0tHOMRRD1vrfobEz3vms/view?usp=sharing) to learn more about my skills and experiences.
+
+- 💻 Explore my [Portfolio](https://github.com/Sumitamahato) to see some of my past projects.
+
+- 💬 I have expertise in HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and MySQL. Feel free to ask me.
+
+- 📫 You can reach me at mahtosumita5@gmail.com. I'm always open to new opportunities and collaborations.
+</details>
+
+<br />
+
+<details>
 
 
 <h3>Connect with me :</h3>
