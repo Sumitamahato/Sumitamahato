@@ -21,9 +21,9 @@
 ### Hi there 👋
 
 
-# 💫 About Me:
-<details>
-<summary><h2>🙋‍♂️ About Me</h2></summary>
+
+
+<summary><h2># 💫 About Me:</h2></summary>
 
 - 🔭 I'm a dedicated Full Stack Web Developer, currently pursuing my studies at Masai.
 
@@ -40,7 +40,7 @@
 
 <br />
 
-<details>
+
 
 
 <h3>Connect with me :</h3>
